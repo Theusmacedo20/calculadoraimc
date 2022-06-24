@@ -41,3 +41,9 @@ footer {
 #pes {
     width: 150px;
 }
+
+@media(max-width: 600px) {
+    section {
+        width: 400px;
+    }
+}
