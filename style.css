@@ -40,4 +40,7 @@ footer {
     body {
        margin: 20px;
     }
+    section {
+        width: 400px;
+    }
 }
