@@ -35,14 +35,14 @@ footer {
 }
 
 #alt {
-    width: 140px;
+    width: 155px;
 }
 
 #pes {
-    width: 140px;
+    width: 155px;
 }
 
-@media(max-width: 300px) {
+@media(max-width: 600px) {
     section {
         margin-left: 20px;
         margin-right: 20px;
