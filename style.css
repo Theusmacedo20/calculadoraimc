@@ -33,6 +33,11 @@ footer {
     text-align: center;
     color: white;
 }
-input number {
+
+#alt {
+    width: 150px;
+}
+
+#pes {
     width: 150px;
 }
