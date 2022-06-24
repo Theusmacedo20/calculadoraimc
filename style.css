@@ -7,7 +7,6 @@ body {
 header {
     text-align: center;
     color: white;
-    width: 100%;
 }
 
 section {
@@ -33,11 +32,7 @@ section {
 footer {
     text-align: center;
     color: white;
-    width: 100%;
 }
-
-@media(max-width: 400px) {
-    body {
-       margin: 20px;
-    }
+input {
+    width: 150px;
 }
