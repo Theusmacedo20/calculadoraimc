@@ -1,0 +1,35 @@
+body {
+    /*background-color: #6C7A89;*/
+    background-color: green;
+    font: normal 14pt arial;
+}
+
+header {
+    text-align: center;
+    color: white;
+}
+
+section {
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    margin: auto;
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.438);
+}
+#primeiro {
+    padding-bottom: 20px;
+}
+#terceiro {
+    padding-bottom: 30px;
+}
+.but {
+    background-color: chocolate;
+    color: white;
+    border-radius: 3px;
+}
+
+footer {
+    text-align: center;
+    color: white;
+}
