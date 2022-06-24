@@ -1,12 +1,13 @@
 body {
     /*background-color: #6C7A89;*/
-    background-color: green;
+    background-color: rgba(0, 0, 0, 0.774);
     font: normal 14pt arial;
 }
 
 header {
     text-align: center;
     color: white;
+    width: 100%;
 }
 
 section {
@@ -32,4 +33,11 @@ section {
 footer {
     text-align: center;
     color: white;
+    width: 100%;
+}
+
+@media(max-width: 400px) {
+    body {
+       margin: 20px;
+    }
 }
